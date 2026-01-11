@@ -17,7 +17,7 @@ The module integrates seamlessly into the PrestaShop checkout process and allows
 - 🧾 Orders created with "Awaiting payment" status
 - 🔄 Automatic order status updates
 - 📊 Payment history in admin panel
-- ⚙️ Flexible module configuration
+- ⚙️ Module configuration
 - 🧠 Uses PrestaShop Advanced Payment API
 
 ---
