@@ -37,7 +37,7 @@ The module integrates seamlessly into the PrestaShop checkout process and allows
 ### Checkout payment
 Customers select Enotpay during checkout and are redirected to the Enotpay payment page.
 
-![Checkout](screenshots/checkout.png)
+![Checkout](screenshots/checkout_en.png)
 
 ---
 
@@ -47,14 +47,14 @@ If the payment was not completed:
 - a **"Pay now"** button is available on the order page
 - payment can be completed without creating a new order
 
-![Order Pay Now](screenshots/order-pay-now.png)
+![Order Pay Now](screenshots/order-pay-now_en.png)
 
 ---
 
 ## ⚙️ Admin Interface
 
 ### Module settings
-![Admin Settings](screenshots/admin-settings.png)
+![Admin Settings](screenshots/admin-settings_en.png)
 
 Configure:
 - shop identifier
@@ -66,7 +66,7 @@ Configure:
 ---
 
 ### Payment history
-![Admin Payments](screenshots/admin-payments.png)
+![Admin Payments](screenshots/admin-payments_en.png)
 
 Displays:
 - order ID
