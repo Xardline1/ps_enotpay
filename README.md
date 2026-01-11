@@ -79,4 +79,30 @@ Displays:
 
 ## 📦 Installation
 
-1. Copy the `enotpay` module folder into:
+1. Copy the `enotpay` module folder into: /modules/
+2. Install the module from PrestaShop Back Office
+3. Configure Enotpay credentials
+4. Ready to use
+
+---
+
+## 👨‍💻 Author
+
+**Xardline**
+
+- Telegram: [@xardlinep](https://t.me/xardlinep)
+- Discord: `@xardline`
+
+---
+
+## ⚠️ Disclaimer
+
+This module is provided **"as is"**.  
+The author is not responsible for any issues arising from the use of PrestaShop versions below **8.2.0** or incorrect configuration.
+
+---
+
+## 📄 License
+
+No license specified.  
+Usage and modification are allowed upon agreement with the author.
