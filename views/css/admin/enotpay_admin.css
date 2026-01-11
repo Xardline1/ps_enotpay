@@ -1,0 +1,75 @@
+.enotpay-admin-panel {
+  border-radius: 12px;
+  border: 1px solid #facc15;
+  background: linear-gradient(135deg, #fff7d6 0%, #fef3c7 100%);
+  box-shadow: 0 12px 28px rgba(250, 204, 21, 0.25);
+}
+
+.enotpay-admin-panel__body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 24px 28px;
+}
+
+.enotpay-admin-panel__logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  margin-bottom: 12px;
+}
+
+.enotpay-admin-panel__logo svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.enotpay-admin-panel__eyebrow {
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: #fec70c;
+  margin-bottom: 8px;
+}
+
+.enotpay-admin-panel__title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1f2937;
+  margin: 0 0 6px;
+}
+
+.enotpay-admin-panel__text {
+  margin: 0;
+  color: #4b5563;
+  font-size: 14px;
+}
+
+.enotpay-admin-panel__actions .btn {
+  padding: 8px 18px;
+  border-radius: 999px;
+  font-weight: 600;
+  background-color: #fbbf24;
+  border-color: #f59e0b;
+  color: #1f2937;
+  box-shadow: 0 10px 20px rgba(245, 158, 11, 0.25);
+}
+
+.enotpay-admin-panel__actions .btn:hover,
+.enotpay-admin-panel__actions .btn:focus {
+  background-color: #f59e0b;
+  border-color: #d97706;
+  color: #111827;
+}
+
+@media (max-width: 768px) {
+  .enotpay-admin-panel__body {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
