@@ -1,6 +1,6 @@
 # Enotpay Payment Module for PrestaShop
 
-[🇷🇺 Русская версия](README.ru.md)
+[🇷🇺 Русская версия](README.md)
 
 Custom payment module for **PrestaShop 8.2.0+**, providing full integration with the **Enotpay** payment system via API.
 
