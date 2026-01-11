@@ -2,7 +2,7 @@
 <module>
     <name>enotpay</name>
     <displayName><![CDATA[EnotPay]]></displayName>
-    <version><![CDATA[1.0.2]]></version>
+    <version><![CDATA[1.0.3]]></version>
     <description><![CDATA[Принимайте платежи через Enotpay.]]></description>
     <author><![CDATA[Xardline, Enotpay]]></author>
     <tab><![CDATA[payments_gateways]]></tab>
